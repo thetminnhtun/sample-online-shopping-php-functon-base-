@@ -1,0 +1,30 @@
+.b-w-3 {
+	border-width: 3px !important;
+}
+
+.b-t-none {
+	border-top: none !important;
+}
+
+.font-24 {
+	font-size: 24px;
+}
+
+.font-b {
+	font-weight: bold;
+}
+
+.bg-footer {
+	background: #BBB !important;
+}
+
+.bg-sidebar {
+	background: #EEEEECFF !important;
+}
+
+#delivered b,
+#delivered i,
+#delivered span,
+#delivered p{
+	text-decoration: line-through !important;
+}
